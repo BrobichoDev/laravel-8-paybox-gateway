@@ -64,7 +64,7 @@ abstract class Request
      *
      * @var bool
      */
-    protected $amountFill = false;
+    protected $amountFill = true;
 
     /**
      * Request constructor.

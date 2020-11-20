@@ -1,5 +1,5 @@
 {
-  "name": "brobicho/laravel-8-paybox-gateway",
+  "name": "brobicho/laravel-8-paybox",
   "description": "Laravel 8+ Paybox gateway",
   "require": {
     "laravel/framework": "~8.0",
